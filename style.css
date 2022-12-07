@@ -1,0 +1,30 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 20%;
+    padding: 10px;
+    box-shadow: 20px 20px 50px rebeccapurple;
+}
+
+#camera{
+    width : 500px; 
+    height: 400px; 
+    border-color:mediumorchid ;
+}
+
+h1{
+    font-family:'Gill Sans';
+     font-style : oblique;
+     font-weight: lighter;
+
+}
+
+h4{
+    color: orange;
+}
